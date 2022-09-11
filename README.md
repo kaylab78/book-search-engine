@@ -30,4 +30,6 @@ This project is licensed under the MIT license.
 ## Credits
 Boot Camp Module 21
 
+Mabuyo, M. & Sullivan, M. (2022, June 16). *3. The Input Type.* Side Quest: Intermediate Schema Design. [https://www.apollographql.com/tutorials/side-quest-intermediate-schema-design/the-input-type](https://www.apollographql.com/tutorials/side-quest-intermediate-schema-design/the-input-type)
+
 Starter code clones from [https://github.com/coding-boot-camp/solid-broccoli](https://github.com/coding-boot-camp/solid-broccoli).
