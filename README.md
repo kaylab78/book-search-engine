@@ -6,7 +6,7 @@ This is a MERN stack application that allows a user to save book searches using 
 
 The starter code for this project was built using RESTful API, and the purpose of the project was to refactor this working app to be a GraphQL API build with Apollo Server.
 
-View the deployed application at []().
+View the deployed application at [https://lit-eyrie-02583.herokuapp.com/](https://lit-eyrie-02583.herokuapp.com/).
 
 ## Table of Contents
 - [Installation](#installation)
@@ -23,7 +23,11 @@ To clone the repository, type `git clone git@github.com:kaylab78/book-search-eng
 Once the repository is cloned, use `npm i` to install the required packages.
 
 ## Usage
+When the user visits the app for the first time, they can search for books using the search field. However, they can't save their book search. In order to save their book search, they must sign up for an account.
 
+Once the user completes the fields necessary to sign up for the app, they can save their book(s) to their account. They can view their saved books and delete books, as needed. The user has the ability to log out and log back in again to view their books or search and save more.
+
+![The screen shows a website with a dark header and a white background. The user creates a profile under the name Joey. They user searches for the book "Little Women," and saves the book to their account.](/client/src/assets/screenshot-1.gif)
 
 ## Technologies
 - [Apollo Server](https://www.apollographql.com/)
@@ -51,6 +55,8 @@ This project is licensed under the MIT license.
 
 ## Credits
 Boot Camp Module 21
+
+Boot Camp Tutor Meg Meyers
 
 Mabuyo, M. & Sullivan, M. (2022, June 16). *3. The Input Type.* Side Quest: Intermediate Schema Design. [https://www.apollographql.com/tutorials/side-quest-intermediate-schema-design/the-input-type](https://www.apollographql.com/tutorials/side-quest-intermediate-schema-design/the-input-type)
 
