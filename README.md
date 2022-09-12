@@ -4,7 +4,7 @@
 ## Description
 This is a MERN stack application that allows a user to save book searches using the Google Books API.
 
-The starter code for this project was built using RESTful API, and the purpose of the project was to refactor this working app to be a GraphQL API build with Apollo Server.
+The starter code for this project was built using RESTful API, and the purpose of the project was to refactor this working app to be a GraphQL API built with Apollo Server.
 
 View the deployed application at [https://lit-eyrie-02583.herokuapp.com/](https://lit-eyrie-02583.herokuapp.com/).
 
