@@ -14,11 +14,6 @@ const resolvers = {
             }
 
             throw new AuthenticationError('Not logged in');
-        },
-        user: async (parent, { username }) => {
-            return User.findOne({ username })
-                .select('-__v -password')
-                .popluate('books');
         }
     },
 
