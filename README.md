@@ -62,4 +62,4 @@ Mabuyo, M. & Sullivan, M. (2022, June 16). *3. The Input Type.* Side Quest: Inte
 
 *Schemas and Types.* (n.d.) GraphQL. Retrieved September 10, 2022, from [https://graphql.org/learn/schema/](https://graphql.org/learn/schema/)
 
-Starter code clones from [https://github.com/coding-boot-camp/solid-broccoli](https://github.com/coding-boot-camp/solid-broccoli).
+Starter code cloned from [https://github.com/coding-boot-camp/solid-broccoli](https://github.com/coding-boot-camp/solid-broccoli).
